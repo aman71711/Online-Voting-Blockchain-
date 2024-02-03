@@ -1,5 +1,5 @@
 # Decentralized Voting Application
-
+"Decentralized Voting Application" is a web-based site developed using HTML, CSS, JavaScript, and Solidity, which is a programming language used for writing smart contracts on the Ethereum blockchain. The application utilizes a local network called Ganache for transactions and integrates with MetaMask, a popular cryptocurrency wallet and browser extension.
 
 
 ## Installation
